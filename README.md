@@ -1,5 +1,5 @@
 # Math-OCR-project
-In this repository, you will find my Math  OCR project and comments attached to it. As my first project, I acknowledge that the code may be low-quality, but I hope you have as much fun wandering through it as I did.
+In this repository, you will find my Math  OCR project and comments attached to it. As my first project, I acknowledge that the code may be low-quality, but I hope you have as much fun wandering through it as I did. Link to the weights here: https://drive.google.com/file/d/1WW8cAjGfr21jSA0x13-ZYaOs7Nf1jCFy/view?usp=sharing
 
 ## Key notes about the project
 This project is far from complete. In the future, I would like to train the CNN on all samples of the Hugging Face dataset linked below. The final loss for training on the first 135000 samples of the dataset is 0.189, and thus the model isn't completely accurate. Adding Beam Search is also something I have on my to-do list for this project.
