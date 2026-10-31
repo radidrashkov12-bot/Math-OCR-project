@@ -1,0 +1,8 @@
+torch
+torchvision
+datasets
+transformers
+Pillow
+sympy
+editdistance
+tqdm
